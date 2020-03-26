@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <user user_no="11" id="user" password="$2a$10$Rz8RsTAH85P1hjksIVuQ6OYGexkvPXbtDeAFHloLdyXQBQsxqCD4O" name="사용자" email="test@example.com" phone="010-1234-5678" user_rank="NORMAL" is_admin="0" is_active="1" insert_date="2020-02-03 13:16:22" update_date="2020-02-04 10:10:25" />
+    <user user_no="12" id="admin" password="$2a$10$pNH8KcdQQCIY6fEplAufIOsjoPVpfy6YOfXLXRhp0kchGuvICm0.y" name="관리자" user_rank="NORMAL" is_admin="1" is_active="1" insert_date="2020-01-21 15:16:11" update_date="2020-01-21 15:16:11" />
+    <user user_no="13" id="vipuser" password="$2a$10$/MXENeJ4L8sp1FoMctBKoOmkb0XY85JZ/2zMj8RMM1YnpWyJzTbH." name="귀한 사용자" user_rank="VIP" is_admin="0" is_active="1" insert_date="2020-01-21 15:16:29" update_date="2020-01-21 15:16:29" />
+    <user user_no="14" id="vvipuser" password="$2a$10$Or97p/gOu4AhVfx32eLYlOfCB1daLcLAZX1ZsYMUSdPGlFpwoah/a" name="아주 귀한 사용자" user_rank="VVIP" is_admin="0" is_active="1" insert_date="2020-01-21 15:16:47" update_date="2020-01-21 15:16:47" />
+    <user user_no="15" id="newuser" password="$2a$10$prvYdKTItX43D/BvKN/PQ.PCpMSujVg3iLSth4uAmjNEAAPhw0RLS" name="현국" phone="010-1234-5679" user_rank="NORMAL" is_admin="0" is_active="1" insert_date="2020-01-21 17:16:56" update_date="2020-02-03 13:58:46" />
+    <user user_no="16" id="newuser1" password="$2a$10$a7IDKskpcD/TPROagAjG7OvFrIY7lk8EdNpvZCUvS9F6RXj/3uOZ6" name="새사용자" phone="010-1234-5678" user_rank="NORMAL" is_admin="0" is_active="1" insert_date="2020-01-29 17:00:57" update_date="2020-02-03 13:51:44" />
+    <user user_no="17" id="aaron.park" password="$2a$10$9i0E597BWSRCx3Xz85xtVOQejivd8A1xQN/uFSgJpPn0NLV3DDbeO" name="박현국" email="aaron.park@kakaocorp.com" phone="010-6309-4720" user_rank="NORMAL" is_admin="0" is_active="1" insert_date="2020-02-03 13:59:28" update_date="2020-02-03 13:59:56" />
+    <user user_no="18" id="inactiveuser" password="$2a$10$075NQhxGT8z0Fk69O6ZO7ezil9CtZLbPGFm/fQxvpiFpX8wdtmuiC" name="새사용자2" user_rank="NORMAL" is_admin="0" is_active="0" insert_date="2020-02-03 18:27:56" update_date="2020-02-03 18:27:56" />
+</dataset>

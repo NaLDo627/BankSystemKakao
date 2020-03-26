@@ -1,0 +1,4 @@
+# SpringBootTest  TestContext  ,   .
+# Dbunit Test Execution Listeners
+org.springframework.test.context.TestExecutionListener=\
+com.github.springtestdbunit.DbUnitTestExecutionListener
